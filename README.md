@@ -37,11 +37,11 @@
 ### 2. 다중선형회귀 모형 분석
 * 앞선 실험 방법에 따라 감성 점수의 독립 변수가 제거되기 전까지 Backward Elimination을 진행하였다.
 * 도출한 최적의 모형은 다음과 같다.
-1. Y: 삼성전자 주가, X: KOSPI200 전체 산업군 지수, 삼성전자 감성 점수
+  1. Y: 삼성전자 주가, X: KOSPI200 전체 산업군 지수, 삼성전자 감성 점수
 
 <img width="600" alt="1번 모형" src="https://user-images.githubusercontent.com/121072239/214624452-96364427-603a-4542-8dc4-e46b9fbc26b3.png">
 
-2. Y: 코스피 지수, X: KOSPI200 전체 산업군 지수, 삼성전자 감성 점수
+  2. Y: 코스피 지수, X: KOSPI200 전체 산업군 지수, 삼성전자 감성 점수
 
 <img width="600" alt="2번 모형" src="https://user-images.githubusercontent.com/121072239/214624176-07b10ac8-1d51-45b6-b54d-464d8c1adb14.png">
 
