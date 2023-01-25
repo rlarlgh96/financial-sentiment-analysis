@@ -39,5 +39,5 @@
 1. Y: 삼성전자 주가, X: KOSPI200 전체 산업군 지수, 삼성전자 감성 점수
 <img width="593" alt="1번 모형" src="https://user-images.githubusercontent.com/121072239/214622280-4ee0d293-8cd4-4835-ad44-77c2fbbb0d5c.png">
 2. Y: 코스피 지수, X: KOSPI200 전체 산업군 지수, 삼성전자 감성 점수
-<img width="593" alt="2번 모형" src="https://user-images.githubusercontent.com/121072239/214622771-eb47b34a-88f0-46c1-9db8-61bcfa975da6.png">
+
 
