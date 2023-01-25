@@ -41,11 +41,9 @@
 * 도출한 최적의 모형은 다음과 같다.
 
   1. Y: 삼성전자 주가, X: KOSPI200 전체 산업군 지수, 삼성전자 감성 점수
-  
   <img width="600" alt="1번 모형" src="https://user-images.githubusercontent.com/121072239/214624452-96364427-603a-4542-8dc4-e46b9fbc26b3.png">
   
   2. Y: 코스피 지수, X: KOSPI200 전체 산업군 지수, 삼성전자 감성 점수
-  
   <img width="600" alt="2번 모형" src="https://user-images.githubusercontent.com/121072239/214624176-07b10ac8-1d51-45b6-b54d-464d8c1adb14.png">
 
 ## 결과 분석
